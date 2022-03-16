@@ -1,0 +1,21 @@
+// {
+//   "compilerOptions": {
+//     "outDir": "./dist/",
+//     "sourceMap": true,
+//     "module": "ES6",
+//     "target": "ES6",
+//     "baseUrl": "./src/"
+//   },
+//   "include": ["./src/**/*"]
+// }
+
+
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "strict": true,
+    "outDir": "dist",
+    "sourceMap": true
+  }
+}
